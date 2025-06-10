@@ -16947,8 +16947,8 @@
     </schema>
     <schema id="5589" parent="5511" name="dbo">
       <Current>1</Current>
-      <IntrospectionTimestamp>2025-06-09.15:14:42.130</IntrospectionTimestamp>
-      <LastIntrospectionLocalTimestamp>2025-06-09.01:14:42</LastIntrospectionLocalTimestamp>
+      <IntrospectionTimestamp>2025-06-09.16:28:34.317</IntrospectionTimestamp>
+      <LastIntrospectionLocalTimestamp>2025-06-09.02:28:34</LastIntrospectionLocalTimestamp>
       <ObjectId>1</ObjectId>
     </schema>
     <schema id="5590" parent="5511" name="guest">
@@ -17006,36 +17006,43 @@
       <ObjectId>1269579561</ObjectId>
       <LobDataSpaceId>1</LobDataSpaceId>
     </table>
-    <table id="5599" parent="5589" name="__EFMigrationsHistory">
+    <table id="5599" parent="5589" name="Categories">
+      <CreatedTimestamp>2025-06-09.16:28:22.580</CreatedTimestamp>
+      <DataRetentionPeriod>-1</DataRetentionPeriod>
+      <ModifiedTimestamp>2025-06-09.16:28:22.580</ModifiedTimestamp>
+      <ObjectId>1845581613</ObjectId>
+      <LobDataSpaceId>0</LobDataSpaceId>
+    </table>
+    <table id="5600" parent="5589" name="__EFMigrationsHistory">
       <CreatedTimestamp>2025-06-09.15:14:34.277</CreatedTimestamp>
       <DataRetentionPeriod>-1</DataRetentionPeriod>
       <ModifiedTimestamp>2025-06-09.15:14:34.277</ModifiedTimestamp>
       <ObjectId>1205579333</ObjectId>
       <LobDataSpaceId>0</LobDataSpaceId>
     </table>
-    <column id="5600" parent="5592" name="Id">
+    <column id="5601" parent="5592" name="Id">
       <NotNull>1</NotNull>
       <Position>1</Position>
       <SequenceIdentity>1</SequenceIdentity>
       <StoredType>int|0s</StoredType>
     </column>
-    <column id="5601" parent="5592" name="RoleId">
+    <column id="5602" parent="5592" name="RoleId">
       <NotNull>1</NotNull>
       <Position>2</Position>
       <StoredType>nvarchar(450 char)|0s</StoredType>
       <CollationName>SQL_Latin1_General_CP1_CI_AS</CollationName>
     </column>
-    <column id="5602" parent="5592" name="ClaimType">
+    <column id="5603" parent="5592" name="ClaimType">
       <Position>3</Position>
       <StoredType>nvarchar(max)|0s</StoredType>
       <CollationName>SQL_Latin1_General_CP1_CI_AS</CollationName>
     </column>
-    <column id="5603" parent="5592" name="ClaimValue">
+    <column id="5604" parent="5592" name="ClaimValue">
       <Position>4</Position>
       <StoredType>nvarchar(max)|0s</StoredType>
       <CollationName>SQL_Latin1_General_CP1_CI_AS</CollationName>
     </column>
-    <foreign-key id="5604" parent="5592" name="FK_AspNetRoleClaims_AspNetRoles_RoleId">
+    <foreign-key id="5605" parent="5592" name="FK_AspNetRoleClaims_AspNetRoles_RoleId">
       <ColNames>RoleId</ColNames>
       <CreatedTimestamp>2025-06-09.15:14:34.353</CreatedTimestamp>
       <ModifiedTimestamp>2025-06-09.15:14:34.353</ModifiedTimestamp>
@@ -17045,90 +17052,90 @@
       <RefTableId>1237579447</RefTableId>
       <RefTableName>AspNetRoles</RefTableName>
     </foreign-key>
-    <index id="5605" parent="5592" name="PK_AspNetRoleClaims">
+    <index id="5606" parent="5592" name="PK_AspNetRoleClaims">
       <Clustering>1</Clustering>
       <ColNames>Id</ColNames>
       <Position>1</Position>
       <Unique>1</Unique>
       <PartitionDataSpaceId>1</PartitionDataSpaceId>
     </index>
-    <index id="5606" parent="5592" name="IX_AspNetRoleClaims_RoleId">
+    <index id="5607" parent="5592" name="IX_AspNetRoleClaims_RoleId">
       <ColNames>RoleId</ColNames>
       <Position>2</Position>
       <PartitionDataSpaceId>1</PartitionDataSpaceId>
     </index>
-    <key id="5607" parent="5592" name="PK_AspNetRoleClaims">
+    <key id="5608" parent="5592" name="PK_AspNetRoleClaims">
       <CreatedTimestamp>2025-06-09.15:14:34.353</CreatedTimestamp>
       <ModifiedTimestamp>2025-06-09.15:14:34.353</ModifiedTimestamp>
       <ObjectId>1317579732</ObjectId>
       <Primary>1</Primary>
       <UnderlyingIndexName>PK_AspNetRoleClaims</UnderlyingIndexName>
     </key>
-    <column id="5608" parent="5593" name="Id">
+    <column id="5609" parent="5593" name="Id">
       <NotNull>1</NotNull>
       <Position>1</Position>
       <StoredType>nvarchar(450 char)|0s</StoredType>
       <CollationName>SQL_Latin1_General_CP1_CI_AS</CollationName>
     </column>
-    <column id="5609" parent="5593" name="Name">
+    <column id="5610" parent="5593" name="Name">
       <Position>2</Position>
       <StoredType>nvarchar(256 char)|0s</StoredType>
       <CollationName>SQL_Latin1_General_CP1_CI_AS</CollationName>
     </column>
-    <column id="5610" parent="5593" name="NormalizedName">
+    <column id="5611" parent="5593" name="NormalizedName">
       <Position>3</Position>
       <StoredType>nvarchar(256 char)|0s</StoredType>
       <CollationName>SQL_Latin1_General_CP1_CI_AS</CollationName>
     </column>
-    <column id="5611" parent="5593" name="ConcurrencyStamp">
+    <column id="5612" parent="5593" name="ConcurrencyStamp">
       <Position>4</Position>
       <StoredType>nvarchar(max)|0s</StoredType>
       <CollationName>SQL_Latin1_General_CP1_CI_AS</CollationName>
     </column>
-    <index id="5612" parent="5593" name="PK_AspNetRoles">
+    <index id="5613" parent="5593" name="PK_AspNetRoles">
       <Clustering>1</Clustering>
       <ColNames>Id</ColNames>
       <Position>1</Position>
       <Unique>1</Unique>
       <PartitionDataSpaceId>1</PartitionDataSpaceId>
     </index>
-    <index id="5613" parent="5593" name="RoleNameIndex">
+    <index id="5614" parent="5593" name="RoleNameIndex">
       <ColNames>NormalizedName</ColNames>
       <Condition>[NormalizedName] IS NOT NULL</Condition>
       <Position>2</Position>
       <Unique>1</Unique>
       <PartitionDataSpaceId>1</PartitionDataSpaceId>
     </index>
-    <key id="5614" parent="5593" name="PK_AspNetRoles">
+    <key id="5615" parent="5593" name="PK_AspNetRoles">
       <CreatedTimestamp>2025-06-09.15:14:34.350</CreatedTimestamp>
       <ModifiedTimestamp>2025-06-09.15:14:34.350</ModifiedTimestamp>
       <ObjectId>1253579504</ObjectId>
       <Primary>1</Primary>
       <UnderlyingIndexName>PK_AspNetRoles</UnderlyingIndexName>
     </key>
-    <column id="5615" parent="5594" name="Id">
+    <column id="5616" parent="5594" name="Id">
       <NotNull>1</NotNull>
       <Position>1</Position>
       <SequenceIdentity>1</SequenceIdentity>
       <StoredType>int|0s</StoredType>
     </column>
-    <column id="5616" parent="5594" name="UserId">
+    <column id="5617" parent="5594" name="UserId">
       <NotNull>1</NotNull>
       <Position>2</Position>
       <StoredType>nvarchar(450 char)|0s</StoredType>
       <CollationName>SQL_Latin1_General_CP1_CI_AS</CollationName>
     </column>
-    <column id="5617" parent="5594" name="ClaimType">
+    <column id="5618" parent="5594" name="ClaimType">
       <Position>3</Position>
       <StoredType>nvarchar(max)|0s</StoredType>
       <CollationName>SQL_Latin1_General_CP1_CI_AS</CollationName>
     </column>
-    <column id="5618" parent="5594" name="ClaimValue">
+    <column id="5619" parent="5594" name="ClaimValue">
       <Position>4</Position>
       <StoredType>nvarchar(max)|0s</StoredType>
       <CollationName>SQL_Latin1_General_CP1_CI_AS</CollationName>
     </column>
-    <foreign-key id="5619" parent="5594" name="FK_AspNetUserClaims_AspNetUsers_UserId">
+    <foreign-key id="5620" parent="5594" name="FK_AspNetUserClaims_AspNetUsers_UserId">
       <ColNames>UserId</ColNames>
       <CreatedTimestamp>2025-06-09.15:14:34.357</CreatedTimestamp>
       <ModifiedTimestamp>2025-06-09.15:14:34.357</ModifiedTimestamp>
@@ -17138,49 +17145,49 @@
       <RefTableId>1269579561</RefTableId>
       <RefTableName>AspNetUsers</RefTableName>
     </foreign-key>
-    <index id="5620" parent="5594" name="PK_AspNetUserClaims">
+    <index id="5621" parent="5594" name="PK_AspNetUserClaims">
       <Clustering>1</Clustering>
       <ColNames>Id</ColNames>
       <Position>1</Position>
       <Unique>1</Unique>
       <PartitionDataSpaceId>1</PartitionDataSpaceId>
     </index>
-    <index id="5621" parent="5594" name="IX_AspNetUserClaims_UserId">
+    <index id="5622" parent="5594" name="IX_AspNetUserClaims_UserId">
       <ColNames>UserId</ColNames>
       <Position>2</Position>
       <PartitionDataSpaceId>1</PartitionDataSpaceId>
     </index>
-    <key id="5622" parent="5594" name="PK_AspNetUserClaims">
+    <key id="5623" parent="5594" name="PK_AspNetUserClaims">
       <CreatedTimestamp>2025-06-09.15:14:34.357</CreatedTimestamp>
       <ModifiedTimestamp>2025-06-09.15:14:34.357</ModifiedTimestamp>
       <ObjectId>1365579903</ObjectId>
       <Primary>1</Primary>
       <UnderlyingIndexName>PK_AspNetUserClaims</UnderlyingIndexName>
     </key>
-    <column id="5623" parent="5595" name="LoginProvider">
+    <column id="5624" parent="5595" name="LoginProvider">
       <NotNull>1</NotNull>
       <Position>1</Position>
       <StoredType>nvarchar(128 char)|0s</StoredType>
       <CollationName>SQL_Latin1_General_CP1_CI_AS</CollationName>
     </column>
-    <column id="5624" parent="5595" name="ProviderKey">
+    <column id="5625" parent="5595" name="ProviderKey">
       <NotNull>1</NotNull>
       <Position>2</Position>
       <StoredType>nvarchar(128 char)|0s</StoredType>
       <CollationName>SQL_Latin1_General_CP1_CI_AS</CollationName>
     </column>
-    <column id="5625" parent="5595" name="ProviderDisplayName">
+    <column id="5626" parent="5595" name="ProviderDisplayName">
       <Position>3</Position>
       <StoredType>nvarchar(max)|0s</StoredType>
       <CollationName>SQL_Latin1_General_CP1_CI_AS</CollationName>
     </column>
-    <column id="5626" parent="5595" name="UserId">
+    <column id="5627" parent="5595" name="UserId">
       <NotNull>1</NotNull>
       <Position>4</Position>
       <StoredType>nvarchar(450 char)|0s</StoredType>
       <CollationName>SQL_Latin1_General_CP1_CI_AS</CollationName>
     </column>
-    <foreign-key id="5627" parent="5595" name="FK_AspNetUserLogins_AspNetUsers_UserId">
+    <foreign-key id="5628" parent="5595" name="FK_AspNetUserLogins_AspNetUsers_UserId">
       <ColNames>UserId</ColNames>
       <CreatedTimestamp>2025-06-09.15:14:34.360</CreatedTimestamp>
       <ModifiedTimestamp>2025-06-09.15:14:34.360</ModifiedTimestamp>
@@ -17190,7 +17197,7 @@
       <RefTableId>1269579561</RefTableId>
       <RefTableName>AspNetUsers</RefTableName>
     </foreign-key>
-    <index id="5628" parent="5595" name="PK_AspNetUserLogins">
+    <index id="5629" parent="5595" name="PK_AspNetUserLogins">
       <Clustering>1</Clustering>
       <ColNames>LoginProvider
 ProviderKey</ColNames>
@@ -17198,31 +17205,31 @@ ProviderKey</ColNames>
       <Unique>1</Unique>
       <PartitionDataSpaceId>1</PartitionDataSpaceId>
     </index>
-    <index id="5629" parent="5595" name="IX_AspNetUserLogins_UserId">
+    <index id="5630" parent="5595" name="IX_AspNetUserLogins_UserId">
       <ColNames>UserId</ColNames>
       <Position>2</Position>
       <PartitionDataSpaceId>1</PartitionDataSpaceId>
     </index>
-    <key id="5630" parent="5595" name="PK_AspNetUserLogins">
+    <key id="5631" parent="5595" name="PK_AspNetUserLogins">
       <CreatedTimestamp>2025-06-09.15:14:34.360</CreatedTimestamp>
       <ModifiedTimestamp>2025-06-09.15:14:34.360</ModifiedTimestamp>
       <ObjectId>1413580074</ObjectId>
       <Primary>1</Primary>
       <UnderlyingIndexName>PK_AspNetUserLogins</UnderlyingIndexName>
     </key>
-    <column id="5631" parent="5596" name="UserId">
+    <column id="5632" parent="5596" name="UserId">
       <NotNull>1</NotNull>
       <Position>1</Position>
       <StoredType>nvarchar(450 char)|0s</StoredType>
       <CollationName>SQL_Latin1_General_CP1_CI_AS</CollationName>
     </column>
-    <column id="5632" parent="5596" name="RoleId">
+    <column id="5633" parent="5596" name="RoleId">
       <NotNull>1</NotNull>
       <Position>2</Position>
       <StoredType>nvarchar(450 char)|0s</StoredType>
       <CollationName>SQL_Latin1_General_CP1_CI_AS</CollationName>
     </column>
-    <foreign-key id="5633" parent="5596" name="FK_AspNetUserRoles_AspNetUsers_UserId">
+    <foreign-key id="5634" parent="5596" name="FK_AspNetUserRoles_AspNetUsers_UserId">
       <ColNames>UserId</ColNames>
       <CreatedTimestamp>2025-06-09.15:14:34.363</CreatedTimestamp>
       <ModifiedTimestamp>2025-06-09.15:14:34.363</ModifiedTimestamp>
@@ -17232,7 +17239,7 @@ ProviderKey</ColNames>
       <RefTableId>1269579561</RefTableId>
       <RefTableName>AspNetUsers</RefTableName>
     </foreign-key>
-    <foreign-key id="5634" parent="5596" name="FK_AspNetUserRoles_AspNetRoles_RoleId">
+    <foreign-key id="5635" parent="5596" name="FK_AspNetUserRoles_AspNetRoles_RoleId">
       <ColNames>RoleId</ColNames>
       <CreatedTimestamp>2025-06-09.15:14:34.363</CreatedTimestamp>
       <ModifiedTimestamp>2025-06-09.15:14:34.363</ModifiedTimestamp>
@@ -17242,7 +17249,7 @@ ProviderKey</ColNames>
       <RefTableId>1237579447</RefTableId>
       <RefTableName>AspNetRoles</RefTableName>
     </foreign-key>
-    <index id="5635" parent="5596" name="PK_AspNetUserRoles">
+    <index id="5636" parent="5596" name="PK_AspNetUserRoles">
       <Clustering>1</Clustering>
       <ColNames>UserId
 RoleId</ColNames>
@@ -17250,42 +17257,42 @@ RoleId</ColNames>
       <Unique>1</Unique>
       <PartitionDataSpaceId>1</PartitionDataSpaceId>
     </index>
-    <index id="5636" parent="5596" name="IX_AspNetUserRoles_RoleId">
+    <index id="5637" parent="5596" name="IX_AspNetUserRoles_RoleId">
       <ColNames>RoleId</ColNames>
       <Position>2</Position>
       <PartitionDataSpaceId>1</PartitionDataSpaceId>
     </index>
-    <key id="5637" parent="5596" name="PK_AspNetUserRoles">
+    <key id="5638" parent="5596" name="PK_AspNetUserRoles">
       <CreatedTimestamp>2025-06-09.15:14:34.360</CreatedTimestamp>
       <ModifiedTimestamp>2025-06-09.15:14:34.360</ModifiedTimestamp>
       <ObjectId>1461580245</ObjectId>
       <Primary>1</Primary>
       <UnderlyingIndexName>PK_AspNetUserRoles</UnderlyingIndexName>
     </key>
-    <column id="5638" parent="5597" name="UserId">
+    <column id="5639" parent="5597" name="UserId">
       <NotNull>1</NotNull>
       <Position>1</Position>
       <StoredType>nvarchar(450 char)|0s</StoredType>
       <CollationName>SQL_Latin1_General_CP1_CI_AS</CollationName>
     </column>
-    <column id="5639" parent="5597" name="LoginProvider">
+    <column id="5640" parent="5597" name="LoginProvider">
       <NotNull>1</NotNull>
       <Position>2</Position>
       <StoredType>nvarchar(128 char)|0s</StoredType>
       <CollationName>SQL_Latin1_General_CP1_CI_AS</CollationName>
     </column>
-    <column id="5640" parent="5597" name="Name">
+    <column id="5641" parent="5597" name="Name">
       <NotNull>1</NotNull>
       <Position>3</Position>
       <StoredType>nvarchar(128 char)|0s</StoredType>
       <CollationName>SQL_Latin1_General_CP1_CI_AS</CollationName>
     </column>
-    <column id="5641" parent="5597" name="Value">
+    <column id="5642" parent="5597" name="Value">
       <Position>4</Position>
       <StoredType>nvarchar(max)|0s</StoredType>
       <CollationName>SQL_Latin1_General_CP1_CI_AS</CollationName>
     </column>
-    <foreign-key id="5642" parent="5597" name="FK_AspNetUserTokens_AspNetUsers_UserId">
+    <foreign-key id="5643" parent="5597" name="FK_AspNetUserTokens_AspNetUsers_UserId">
       <ColNames>UserId</ColNames>
       <CreatedTimestamp>2025-06-09.15:14:34.367</CreatedTimestamp>
       <ModifiedTimestamp>2025-06-09.15:14:34.367</ModifiedTimestamp>
@@ -17295,7 +17302,7 @@ RoleId</ColNames>
       <RefTableId>1269579561</RefTableId>
       <RefTableName>AspNetUsers</RefTableName>
     </foreign-key>
-    <index id="5643" parent="5597" name="PK_AspNetUserTokens">
+    <index id="5644" parent="5597" name="PK_AspNetUserTokens">
       <Clustering>1</Clustering>
       <ColNames>UserId
 LoginProvider
@@ -17304,134 +17311,160 @@ Name</ColNames>
       <Unique>1</Unique>
       <PartitionDataSpaceId>1</PartitionDataSpaceId>
     </index>
-    <key id="5644" parent="5597" name="PK_AspNetUserTokens">
+    <key id="5645" parent="5597" name="PK_AspNetUserTokens">
       <CreatedTimestamp>2025-06-09.15:14:34.367</CreatedTimestamp>
       <ModifiedTimestamp>2025-06-09.15:14:34.367</ModifiedTimestamp>
       <ObjectId>1525580473</ObjectId>
       <Primary>1</Primary>
       <UnderlyingIndexName>PK_AspNetUserTokens</UnderlyingIndexName>
     </key>
-    <column id="5645" parent="5598" name="Id">
+    <column id="5646" parent="5598" name="Id">
       <NotNull>1</NotNull>
       <Position>1</Position>
       <StoredType>nvarchar(450 char)|0s</StoredType>
       <CollationName>SQL_Latin1_General_CP1_CI_AS</CollationName>
     </column>
-    <column id="5646" parent="5598" name="UserName">
+    <column id="5647" parent="5598" name="UserName">
       <Position>2</Position>
       <StoredType>nvarchar(256 char)|0s</StoredType>
       <CollationName>SQL_Latin1_General_CP1_CI_AS</CollationName>
     </column>
-    <column id="5647" parent="5598" name="NormalizedUserName">
+    <column id="5648" parent="5598" name="NormalizedUserName">
       <Position>3</Position>
       <StoredType>nvarchar(256 char)|0s</StoredType>
       <CollationName>SQL_Latin1_General_CP1_CI_AS</CollationName>
     </column>
-    <column id="5648" parent="5598" name="Email">
+    <column id="5649" parent="5598" name="Email">
       <Position>4</Position>
       <StoredType>nvarchar(256 char)|0s</StoredType>
       <CollationName>SQL_Latin1_General_CP1_CI_AS</CollationName>
     </column>
-    <column id="5649" parent="5598" name="NormalizedEmail">
+    <column id="5650" parent="5598" name="NormalizedEmail">
       <Position>5</Position>
       <StoredType>nvarchar(256 char)|0s</StoredType>
       <CollationName>SQL_Latin1_General_CP1_CI_AS</CollationName>
     </column>
-    <column id="5650" parent="5598" name="EmailConfirmed">
+    <column id="5651" parent="5598" name="EmailConfirmed">
       <NotNull>1</NotNull>
       <Position>6</Position>
       <StoredType>bit|0s</StoredType>
     </column>
-    <column id="5651" parent="5598" name="PasswordHash">
+    <column id="5652" parent="5598" name="PasswordHash">
       <Position>7</Position>
       <StoredType>nvarchar(max)|0s</StoredType>
       <CollationName>SQL_Latin1_General_CP1_CI_AS</CollationName>
     </column>
-    <column id="5652" parent="5598" name="SecurityStamp">
+    <column id="5653" parent="5598" name="SecurityStamp">
       <Position>8</Position>
       <StoredType>nvarchar(max)|0s</StoredType>
       <CollationName>SQL_Latin1_General_CP1_CI_AS</CollationName>
     </column>
-    <column id="5653" parent="5598" name="ConcurrencyStamp">
+    <column id="5654" parent="5598" name="ConcurrencyStamp">
       <Position>9</Position>
       <StoredType>nvarchar(max)|0s</StoredType>
       <CollationName>SQL_Latin1_General_CP1_CI_AS</CollationName>
     </column>
-    <column id="5654" parent="5598" name="PhoneNumber">
+    <column id="5655" parent="5598" name="PhoneNumber">
       <Position>10</Position>
       <StoredType>nvarchar(max)|0s</StoredType>
       <CollationName>SQL_Latin1_General_CP1_CI_AS</CollationName>
     </column>
-    <column id="5655" parent="5598" name="PhoneNumberConfirmed">
+    <column id="5656" parent="5598" name="PhoneNumberConfirmed">
       <NotNull>1</NotNull>
       <Position>11</Position>
       <StoredType>bit|0s</StoredType>
     </column>
-    <column id="5656" parent="5598" name="TwoFactorEnabled">
+    <column id="5657" parent="5598" name="TwoFactorEnabled">
       <NotNull>1</NotNull>
       <Position>12</Position>
       <StoredType>bit|0s</StoredType>
     </column>
-    <column id="5657" parent="5598" name="LockoutEnd">
+    <column id="5658" parent="5598" name="LockoutEnd">
       <Position>13</Position>
       <StoredType>datetimeoffset|0s</StoredType>
     </column>
-    <column id="5658" parent="5598" name="LockoutEnabled">
+    <column id="5659" parent="5598" name="LockoutEnabled">
       <NotNull>1</NotNull>
       <Position>14</Position>
       <StoredType>bit|0s</StoredType>
     </column>
-    <column id="5659" parent="5598" name="AccessFailedCount">
+    <column id="5660" parent="5598" name="AccessFailedCount">
       <NotNull>1</NotNull>
       <Position>15</Position>
       <StoredType>int|0s</StoredType>
     </column>
-    <index id="5660" parent="5598" name="PK_AspNetUsers">
+    <index id="5661" parent="5598" name="PK_AspNetUsers">
       <Clustering>1</Clustering>
       <ColNames>Id</ColNames>
       <Position>1</Position>
       <Unique>1</Unique>
       <PartitionDataSpaceId>1</PartitionDataSpaceId>
     </index>
-    <index id="5661" parent="5598" name="EmailIndex">
+    <index id="5662" parent="5598" name="EmailIndex">
       <ColNames>NormalizedEmail</ColNames>
       <Position>2</Position>
       <PartitionDataSpaceId>1</PartitionDataSpaceId>
     </index>
-    <index id="5662" parent="5598" name="UserNameIndex">
+    <index id="5663" parent="5598" name="UserNameIndex">
       <ColNames>NormalizedUserName</ColNames>
       <Condition>[NormalizedUserName] IS NOT NULL</Condition>
       <Position>3</Position>
       <Unique>1</Unique>
       <PartitionDataSpaceId>1</PartitionDataSpaceId>
     </index>
-    <key id="5663" parent="5598" name="PK_AspNetUsers">
+    <key id="5664" parent="5598" name="PK_AspNetUsers">
       <CreatedTimestamp>2025-06-09.15:14:34.350</CreatedTimestamp>
       <ModifiedTimestamp>2025-06-09.15:14:34.350</ModifiedTimestamp>
       <ObjectId>1285579618</ObjectId>
       <Primary>1</Primary>
       <UnderlyingIndexName>PK_AspNetUsers</UnderlyingIndexName>
     </key>
-    <column id="5664" parent="5599" name="MigrationId">
+    <column id="5665" parent="5599" name="CategoryId">
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <SequenceIdentity>1</SequenceIdentity>
+      <StoredType>int|0s</StoredType>
+    </column>
+    <column id="5666" parent="5599" name="CategoryName">
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>nvarchar(100 char)|0s</StoredType>
+      <CollationName>SQL_Latin1_General_CP1_CI_AS</CollationName>
+    </column>
+    <index id="5667" parent="5599" name="PK_Categories">
+      <Clustering>1</Clustering>
+      <ColNames>CategoryId</ColNames>
+      <Position>1</Position>
+      <Unique>1</Unique>
+      <PartitionDataSpaceId>1</PartitionDataSpaceId>
+    </index>
+    <key id="5668" parent="5599" name="PK_Categories">
+      <CreatedTimestamp>2025-06-09.16:28:22.587</CreatedTimestamp>
+      <ModifiedTimestamp>2025-06-09.16:28:22.587</ModifiedTimestamp>
+      <ObjectId>1861581670</ObjectId>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PK_Categories</UnderlyingIndexName>
+    </key>
+    <column id="5669" parent="5600" name="MigrationId">
       <NotNull>1</NotNull>
       <Position>1</Position>
       <StoredType>nvarchar(150 char)|0s</StoredType>
       <CollationName>SQL_Latin1_General_CP1_CI_AS</CollationName>
     </column>
-    <column id="5665" parent="5599" name="ProductVersion">
+    <column id="5670" parent="5600" name="ProductVersion">
       <NotNull>1</NotNull>
       <Position>2</Position>
       <StoredType>nvarchar(32 char)|0s</StoredType>
       <CollationName>SQL_Latin1_General_CP1_CI_AS</CollationName>
     </column>
-    <index id="5666" parent="5599" name="PK___EFMigrationsHistory">
+    <index id="5671" parent="5600" name="PK___EFMigrationsHistory">
       <Clustering>1</Clustering>
       <ColNames>MigrationId</ColNames>
       <Position>1</Position>
       <Unique>1</Unique>
       <PartitionDataSpaceId>1</PartitionDataSpaceId>
     </index>
-    <key id="5667" parent="5599" name="PK___EFMigrationsHistory">
+    <key id="5672" parent="5600" name="PK___EFMigrationsHistory">
       <CreatedTimestamp>2025-06-09.15:14:34.280</CreatedTimestamp>
       <ModifiedTimestamp>2025-06-09.15:14:34.280</ModifiedTimestamp>
       <ObjectId>1221579390</ObjectId>

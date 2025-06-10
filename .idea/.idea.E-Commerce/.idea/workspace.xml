@@ -8,7 +8,59 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12a1ee9c-22a2-46f9-b580-c904d6bc64d0" name="Changes" comment="" />
+    <list default="true" id="12a1ee9c-22a2-46f9-b580-c904d6bc64d0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookShop/Models/Category.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookShop/Repository/CategoryReponsitory.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookShop/Repository/IRepository/ICategoryReponsitory.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookShop/Repository/IRepository/IReponsitory.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookShop/Repository/IRepository/ISP_Call.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookShop/Repository/IRepository/IUnitOfWork.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookShop/Repository/Repository.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookShop/Repository/SP_Call.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookShop/Repository/UnitOfWork.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.E-Commerce/.idea/dataSources/eaa9fe72-4b07-43bd-99f5-18435fbdbf0d.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.E-Commerce/.idea/dataSources/eaa9fe72-4b07-43bd-99f5-18435fbdbf0d.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.E-Commerce/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.E-Commerce/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookShop/BookShop.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/BookShop/BookShop.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookShop/Data/ApplicationDbContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BookShop/Data/ApplicationDbContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookShop/Migrations/ApplicationDbContextModelSnapshot.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BookShop/Migrations/ApplicationDbContextModelSnapshot.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookShop/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BookShop/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookShop/Views/Shared/_Layout.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/BookShop/Views/Shared/_Layout.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookShop/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/BookShop/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookShop/bin/Debug/net9.0/BookShop.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BookShop/bin/Debug/net9.0/BookShop.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookShop/bin/Debug/net9.0/BookShop.exe" beforeDir="false" afterPath="$PROJECT_DIR$/BookShop/bin/Debug/net9.0/BookShop.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookShop/bin/Debug/net9.0/BookShop.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/BookShop/bin/Debug/net9.0/BookShop.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookShop/bin/Debug/net9.0/BookShop.staticwebassets.endpoints.json" beforeDir="false" afterPath="$PROJECT_DIR$/BookShop/bin/Debug/net9.0/BookShop.staticwebassets.endpoints.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookShop/bin/Debug/net9.0/BookShop.staticwebassets.runtime.json" beforeDir="false" afterPath="$PROJECT_DIR$/BookShop/bin/Debug/net9.0/BookShop.staticwebassets.runtime.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookShop/obj/BookShop.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/BookShop/obj/BookShop.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookShop/obj/Debug/net9.0/BookShop.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BookShop/obj/Debug/net9.0/BookShop.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookShop/obj/Debug/net9.0/BookShop.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BookShop/obj/Debug/net9.0/BookShop.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookShop/obj/Debug/net9.0/BookShop.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BookShop/obj/Debug/net9.0/BookShop.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookShop/obj/Debug/net9.0/BookShop.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BookShop/obj/Debug/net9.0/BookShop.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookShop/obj/Debug/net9.0/BookShop.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BookShop/obj/Debug/net9.0/BookShop.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookShop/obj/Debug/net9.0/BookShop.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BookShop/obj/Debug/net9.0/BookShop.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookShop/obj/Debug/net9.0/BookShop.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BookShop/obj/Debug/net9.0/BookShop.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookShop/obj/Debug/net9.0/BookShop.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/BookShop/obj/Debug/net9.0/BookShop.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookShop/obj/Debug/net9.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/BookShop/obj/Debug/net9.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookShop/obj/Debug/net9.0/compressed/cbhtojsln5-b9sayid5wm.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookShop/obj/Debug/net9.0/rbcswa.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/BookShop/obj/Debug/net9.0/rbcswa.dswa.cache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookShop/obj/Debug/net9.0/ref/BookShop.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BookShop/obj/Debug/net9.0/ref/BookShop.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookShop/obj/Debug/net9.0/refint/BookShop.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BookShop/obj/Debug/net9.0/refint/BookShop.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookShop/obj/Debug/net9.0/rjimswa.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/BookShop/obj/Debug/net9.0/rjimswa.dswa.cache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookShop/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/BookShop/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookShop/obj/Debug/net9.0/rjsmrazor.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/BookShop/obj/Debug/net9.0/rjsmrazor.dswa.cache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookShop/obj/Debug/net9.0/rpswa.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/BookShop/obj/Debug/net9.0/rpswa.dswa.cache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookShop/obj/Debug/net9.0/staticwebassets.build.endpoints.json" beforeDir="false" afterPath="$PROJECT_DIR$/BookShop/obj/Debug/net9.0/staticwebassets.build.endpoints.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookShop/obj/Debug/net9.0/staticwebassets.build.json" beforeDir="false" afterPath="$PROJECT_DIR$/BookShop/obj/Debug/net9.0/staticwebassets.build.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookShop/obj/Debug/net9.0/staticwebassets.build.json.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BookShop/obj/Debug/net9.0/staticwebassets.build.json.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookShop/obj/Debug/net9.0/staticwebassets.development.json" beforeDir="false" afterPath="$PROJECT_DIR$/BookShop/obj/Debug/net9.0/staticwebassets.development.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookShop/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/BookShop/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookShop/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BookShop/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookShop/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/BookShop/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookShop/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/BookShop/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookShop/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/BookShop/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookShop/wwwroot/css/site.css" beforeDir="false" afterPath="$PROJECT_DIR$/BookShop/wwwroot/css/site.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,29 +69,53 @@
   <component name="DpaMonitoringSettings">
     <option name="firstShow" value="false" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;haovanhut74&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/haovanhut74/BookShop.git&quot;,
+    &quot;accountId&quot;: &quot;7310ecf0-8031-49b3-bee8-c607fb3b115d&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/13782b42c130409992230346c1947d51291438/cb/d6b9fd06/DbSet`1.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2yFW91fBEBYYUH7UPOLQVvWz7e6" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    ".NET Launch Settings Profile.BookShop: http.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "ignore.virus.scanning.warn.message": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;.NET Launch Settings Profile.BookShop: http.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected=".NET Launch Settings Profile.BookShop: http">
     <configuration name="BookShop: http" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/BookShop/BookShop.csproj" />
@@ -79,14 +155,28 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1749430648531</updated>
-      <workItem from="1749430651023" duration="3387000" />
+      <workItem from="1749430651023" duration="7526000" />
+      <workItem from="1749449279590" duration="5052000" />
+      <workItem from="1749485393221" duration="2186000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
