@@ -1,324 +1,447 @@
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\appsettings.Development.json
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\appsettings.json
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\BookShop.staticwebassets.runtime.json
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\BookShop.staticwebassets.endpoints.json
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\app.db
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\BookShop.exe
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\BookShop.deps.json
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\BookShop.runtimeconfig.json
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\BookShop.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\BookShop.pdb
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Humanizer.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.UI.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.Build.Locator.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Embedded.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Mono.TextTemplating.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\SQLitePCLRaw.core.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\System.CodeDom.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\System.Composition.AttributedModel.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\System.Composition.Convention.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\System.Composition.Hosting.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\System.Composition.Runtime.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\System.Composition.TypedParts.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\BookShop.csproj.AssemblyReference.cache
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\BookShop.GeneratedMSBuildEditorConfig.editorconfig
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\BookShop.AssemblyInfoInputs.cache
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\BookShop.AssemblyInfo.cs
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\BookShop.csproj.CoreCompileInputs.cache
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\BookShop.MvcApplicationPartsAssemblyInfo.cs
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\BookShop.MvcApplicationPartsAssemblyInfo.cache
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\BookShop.RazorAssemblyInfo.cache
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\BookShop.RazorAssemblyInfo.cs
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\scopedcss\bundle\BookShop.styles.css
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\scopedcss\projectbundle\BookShop.bundle.scp.css
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\ofa40bqe71-b9sayid5wm.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\j9swiz3yzq-90yqlj465b.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\vltxs1u3vm-xtxxf3hu2r.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\14ipv7q33s-bqjiyaj88i.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\rh65p086id-c2jlpeoesf.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\eb27mqwgz2-erw9l3u2r3.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\9glsckmvxo-aexeepp0ev.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\hh8ihyobdx-d7shbmvgxk.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\bww8ud00yd-ausgxo2sd3.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\edcrak57d7-k8d9w2qqmf.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\sf8kf2lula-cosvhxvwiu.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\3tzsqhslk9-ub07r2b239.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\oxk5o6czdw-fvhpjtyr6v.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\k8b25g0zwc-b7pk76d08c.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\8axix7wldr-fsbi9cje9m.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\d5z9sfpxbi-rzd6atqjts.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\u8428c4e9i-ee0r1s7dh0.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\tg53r17ghy-dxx9fxp4il.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\nlrl0f3xs3-jd9uben2k1.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\1fc4q00scq-khv3u5hwcm.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\8xykfy6qmd-r4e9w2rdcm.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\vsrbd71spn-lcd1t2u6c8.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\cynp17w084-c2oey78nd0.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\7o8oyvng68-tdbxkamptv.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\h9vwtoirpy-j5mq2jizvt.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\o5k23vqhrk-06098lyss8.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\iznc766avz-nvvlpmu67g.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\ns4583i71s-s35ty4nyc5.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\47012z8l2l-pj5nd1wqec.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\4vzefxwp2m-46ein0sx1k.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\bh4v3mdph9-v0zj4ognzu.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\l186vlgaag-37tfw0ft22.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\rsc7qacj1u-hrwsygsryq.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\z408qb6q7a-pk9g2wxc8p.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\qfr28sqcy1-ft3s53vfgj.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\0k1i85ntyh-6cfz1n2cew.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\xa379ftczi-6pdc2jztkx.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\lr5hmrr0j7-493y06b0oq.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\ivy2s9gwh5-iovd86k7lj.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\higufxz8op-vr1egmr9el.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\s3tglgz8hr-kbrnm935zg.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\vw9sls9bhj-jj8uyg4cgr.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\ym8tkpcl2i-y7v9cxd14o.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\zzna4nrm5w-notf2xhcfb.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\igscs4x0yk-h1s4sie4z3.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\zap00c0tb5-63fj8s7r0e.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\pogzkicjpz-0j3bgjxly4.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\j3hwsq15kh-47otxtyo56.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\q3naettu8c-4v8eqarkd7.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\ldxy2n3w6q-356vix0kms.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\ypthv7q62w-83jwlth58m.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\t6e3b82hrf-mrlpezrjn3.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\uocis9wxbx-lzl9nlhx6b.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\2tikzqlmtu-ag7o75518u.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\9muusbdg0a-x0q3zqp4vz.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\tpsq5dibur-0i3buxo5is.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\t0qo7o574p-o1o13a6vjx.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\b9lhb08218-ttgo8qnofa.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\a3ygkwa5zy-2z0ns9nrw6.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\nezrqnk58p-muycvpuwrr.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\v0zgfp0y55-87fc7y1x7t.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\yfc7ypekbg-mlv21k5csn.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\i8w7pqsxdw-61n19gt1b8.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\lo5o145lxm-xtxxf3hu2r.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\1lwzq2x4vt-t1cqhe9u97.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\lqzoele3bv-c2jlpeoesf.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\oqkn4tqk0e-sejl45xvog.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\5xjra52uj2-aexeepp0ev.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\p773ho5ry9-xvp3kq03qx.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\mi4ofbjfkt-ausgxo2sd3.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\9b7kpfn62r-22vffe00uq.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\ojxiuq5x9y-cosvhxvwiu.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\9ly0z1jiqp-qesaa3a1fm.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\hy9idf2z87-fvhpjtyr6v.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\xa36c9tom0-tmc1g35s3z.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\bdpsho0tmj-fsbi9cje9m.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\pt5xhe23ra-rxsg74s51o.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\nloc0byzke-ee0r1s7dh0.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\4hlgepmer4-q9ht133ko3.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\cl58s88766-jd9uben2k1.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\lfvye66dks-gye83jo8yx.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\p6fqmwo2wy-r4e9w2rdcm.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\75t2n9aiz8-wl58j5mj3v.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\4z2n2v5wjj-c2oey78nd0.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\n3m1136jbl-d4r6k3f320.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\g3bpdw71nv-j5mq2jizvt.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\s8aqwio0l3-keugtjm085.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\v2mhoemgx5-nvvlpmu67g.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\80ssi248we-zub09dkrxp.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\xpymivwux5-pj5nd1wqec.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\2o2tdewzu9-43atpzeawx.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\ih4o14pvhq-v0zj4ognzu.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\fwfjffm0c7-ynyaa8k90p.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\4waa3k0vkw-hrwsygsryq.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\mvgx5ypjks-c63t5i9ira.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\t9jsft9svd-ft3s53vfgj.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\i7xi3q712i-4094rpi4f9.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\879983voms-6pdc2jztkx.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\3pfjivdbd5-hd3gran6i8.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\c4ocpybtmg-iovd86k7lj.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\gvzn8nt2mk-ltid2c489k.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\6k3i22hkdy-kbrnm935zg.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\fqhyffnot0-8vyfqsqgz1.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\s33n12iqhe-y7v9cxd14o.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\gqgw3kj4ce-u9q1upor1n.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\ew0ddglv0k-h1s4sie4z3.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\v1xrhg5q37-4d85u1mtcx.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\rvev9sae0o-0j3bgjxly4.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\a937l9l9j8-03hjc8e09r.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\ndflnd1e77-48y08845bh.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\oxlmubbyba-356vix0kms.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\m1ucwxdyso-83jwlth58m.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\c7a2hn7jwk-mrlpezrjn3.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\eb83hz4dgn-worgj0nhwm.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\j28qo8aiz1-gk0pw8i4co.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\oplaohwmm7-x0q3zqp4vz.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\2qyo7jnsza-d6nrnj6jjx.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\tjp1je46wi-m9qm4tazc0.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\j26nhct40r-ttgo8qnofa.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\4n61jw76cv-jjsuc0puko.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\hckjkjjl0i-9vr69e8ynj.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\55297t0117-87fc7y1x7t.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\zg4snsfytr-mlv21k5csn.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\xqsbte67d7-5u8h06ig3z.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\255xeeuacu-5u8h06ig3z.gz
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\staticwebassets.build.json
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\staticwebassets.build.json.cache
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\staticwebassets.development.json
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\staticwebassets.build.endpoints.json
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\BookShop.csproj.Up2Date
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\BookShop.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\refint\BookShop.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\BookShop.pdb
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\BookShop.genruntimeconfig.cache
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\ref\BookShop.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Azure.Core.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Azure.Identity.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.Identity.Client.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\System.ClientModel.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\System.Drawing.Common.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\System.Memory.Data.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\System.Runtime.Caching.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\System.Security.Permissions.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\System.Windows.Extensions.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\BookShop.sourcelink.json
-D:\Môn học trên trường\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\cbhtojsln5-qh3z9d9y9h.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\appsettings.Development.json
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\appsettings.json
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\BookShop.staticwebassets.runtime.json
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\BookShop.staticwebassets.endpoints.json
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\app.db
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\BookShop.exe
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\BookShop.deps.json
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\BookShop.runtimeconfig.json
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\BookShop.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\BookShop.pdb
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Azure.Core.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Azure.Identity.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Dapper.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Dapper.Oracle.DynamicParameter.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Humanizer.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.Build.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\NuGet.Common.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\NuGet.Configuration.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\NuGet.Frameworks.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\NuGet.LibraryModel.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\NuGet.Packaging.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\NuGet.ProjectModel.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\NuGet.Protocol.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\NuGet.Versioning.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Oracle.ManagedDataAccess.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\System.ClientModel.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\System.CodeDom.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\System.Memory.Data.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\af\Humanizer.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\ar\Humanizer.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\az\Humanizer.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\bg\Humanizer.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\cs\Humanizer.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\da\Humanizer.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\de\Humanizer.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\el\Humanizer.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\es\Humanizer.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\fa\Humanizer.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\fr\Humanizer.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\he\Humanizer.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\hr\Humanizer.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\hu\Humanizer.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\hy\Humanizer.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\id\Humanizer.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\is\Humanizer.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\it\Humanizer.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\ja\Humanizer.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\ku\Humanizer.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\lv\Humanizer.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\mt\Humanizer.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\nb\Humanizer.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\nl\Humanizer.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\pl\Humanizer.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\pt\Humanizer.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\ro\Humanizer.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\ru\Humanizer.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\sk\Humanizer.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\sl\Humanizer.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\sr\Humanizer.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\sv\Humanizer.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\tr\Humanizer.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\uk\Humanizer.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\vi\Humanizer.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\runtimes\win7-x64\native\sni.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\runtimes\win7-x86\native\sni.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\runtimes\unix\lib\netstandard1.3\System.Data.SqlClient.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\BookShop.csproj.AssemblyReference.cache
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\BookShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\BookShop.AssemblyInfoInputs.cache
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\BookShop.AssemblyInfo.cs
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\BookShop.csproj.CoreCompileInputs.cache
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\BookShop.MvcApplicationPartsAssemblyInfo.cs
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\BookShop.MvcApplicationPartsAssemblyInfo.cache
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\BookShop.RazorAssemblyInfo.cache
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\BookShop.RazorAssemblyInfo.cs
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\BookShop.sourcelink.json
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\scopedcss\bundle\BookShop.styles.css
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\scopedcss\projectbundle\BookShop.bundle.scp.css
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\ofa40bqe71-b9sayid5wm.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\j9swiz3yzq-90yqlj465b.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\vltxs1u3vm-xtxxf3hu2r.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\14ipv7q33s-bqjiyaj88i.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\rh65p086id-c2jlpeoesf.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\eb27mqwgz2-erw9l3u2r3.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\9glsckmvxo-aexeepp0ev.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\hh8ihyobdx-d7shbmvgxk.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\bww8ud00yd-ausgxo2sd3.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\edcrak57d7-k8d9w2qqmf.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\sf8kf2lula-cosvhxvwiu.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\3tzsqhslk9-ub07r2b239.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\oxk5o6czdw-fvhpjtyr6v.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\k8b25g0zwc-b7pk76d08c.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\8axix7wldr-fsbi9cje9m.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\d5z9sfpxbi-rzd6atqjts.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\u8428c4e9i-ee0r1s7dh0.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\tg53r17ghy-dxx9fxp4il.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\nlrl0f3xs3-jd9uben2k1.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\1fc4q00scq-khv3u5hwcm.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\8xykfy6qmd-r4e9w2rdcm.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\vsrbd71spn-lcd1t2u6c8.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\cynp17w084-c2oey78nd0.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\7o8oyvng68-tdbxkamptv.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\h9vwtoirpy-j5mq2jizvt.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\o5k23vqhrk-06098lyss8.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\iznc766avz-nvvlpmu67g.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\ns4583i71s-s35ty4nyc5.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\47012z8l2l-pj5nd1wqec.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\4vzefxwp2m-46ein0sx1k.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\bh4v3mdph9-v0zj4ognzu.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\l186vlgaag-37tfw0ft22.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\rsc7qacj1u-hrwsygsryq.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\z408qb6q7a-pk9g2wxc8p.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\qfr28sqcy1-ft3s53vfgj.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\0k1i85ntyh-6cfz1n2cew.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\xa379ftczi-6pdc2jztkx.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\lr5hmrr0j7-493y06b0oq.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\ivy2s9gwh5-iovd86k7lj.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\higufxz8op-vr1egmr9el.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\s3tglgz8hr-kbrnm935zg.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\vw9sls9bhj-jj8uyg4cgr.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\ym8tkpcl2i-y7v9cxd14o.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\zzna4nrm5w-notf2xhcfb.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\igscs4x0yk-h1s4sie4z3.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\zap00c0tb5-63fj8s7r0e.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\pogzkicjpz-0j3bgjxly4.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\j3hwsq15kh-47otxtyo56.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\q3naettu8c-4v8eqarkd7.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\ldxy2n3w6q-356vix0kms.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\ypthv7q62w-83jwlth58m.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\t6e3b82hrf-mrlpezrjn3.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\uocis9wxbx-lzl9nlhx6b.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\2tikzqlmtu-ag7o75518u.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\9muusbdg0a-x0q3zqp4vz.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\tpsq5dibur-0i3buxo5is.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\t0qo7o574p-o1o13a6vjx.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\b9lhb08218-ttgo8qnofa.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\a3ygkwa5zy-2z0ns9nrw6.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\nezrqnk58p-muycvpuwrr.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\v0zgfp0y55-87fc7y1x7t.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\yfc7ypekbg-mlv21k5csn.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\i8w7pqsxdw-61n19gt1b8.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\lo5o145lxm-xtxxf3hu2r.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\1lwzq2x4vt-t1cqhe9u97.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\lqzoele3bv-c2jlpeoesf.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\oqkn4tqk0e-sejl45xvog.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\5xjra52uj2-aexeepp0ev.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\p773ho5ry9-xvp3kq03qx.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\mi4ofbjfkt-ausgxo2sd3.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\9b7kpfn62r-22vffe00uq.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\ojxiuq5x9y-cosvhxvwiu.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\9ly0z1jiqp-qesaa3a1fm.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\hy9idf2z87-fvhpjtyr6v.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\xa36c9tom0-tmc1g35s3z.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\bdpsho0tmj-fsbi9cje9m.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\pt5xhe23ra-rxsg74s51o.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\nloc0byzke-ee0r1s7dh0.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\4hlgepmer4-q9ht133ko3.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\cl58s88766-jd9uben2k1.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\lfvye66dks-gye83jo8yx.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\p6fqmwo2wy-r4e9w2rdcm.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\75t2n9aiz8-wl58j5mj3v.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\4z2n2v5wjj-c2oey78nd0.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\n3m1136jbl-d4r6k3f320.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\g3bpdw71nv-j5mq2jizvt.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\s8aqwio0l3-keugtjm085.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\v2mhoemgx5-nvvlpmu67g.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\80ssi248we-zub09dkrxp.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\xpymivwux5-pj5nd1wqec.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\2o2tdewzu9-43atpzeawx.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\ih4o14pvhq-v0zj4ognzu.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\fwfjffm0c7-ynyaa8k90p.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\4waa3k0vkw-hrwsygsryq.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\mvgx5ypjks-c63t5i9ira.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\t9jsft9svd-ft3s53vfgj.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\i7xi3q712i-4094rpi4f9.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\879983voms-6pdc2jztkx.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\3pfjivdbd5-hd3gran6i8.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\c4ocpybtmg-iovd86k7lj.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\gvzn8nt2mk-ltid2c489k.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\6k3i22hkdy-kbrnm935zg.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\fqhyffnot0-8vyfqsqgz1.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\s33n12iqhe-y7v9cxd14o.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\gqgw3kj4ce-u9q1upor1n.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\ew0ddglv0k-h1s4sie4z3.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\v1xrhg5q37-4d85u1mtcx.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\rvev9sae0o-0j3bgjxly4.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\a937l9l9j8-03hjc8e09r.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\ndflnd1e77-48y08845bh.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\oxlmubbyba-356vix0kms.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\m1ucwxdyso-83jwlth58m.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\c7a2hn7jwk-mrlpezrjn3.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\eb83hz4dgn-worgj0nhwm.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\j28qo8aiz1-gk0pw8i4co.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\oplaohwmm7-x0q3zqp4vz.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\2qyo7jnsza-d6nrnj6jjx.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\tjp1je46wi-m9qm4tazc0.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\j26nhct40r-ttgo8qnofa.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\4n61jw76cv-jjsuc0puko.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\hckjkjjl0i-9vr69e8ynj.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\55297t0117-87fc7y1x7t.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\zg4snsfytr-mlv21k5csn.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\xqsbte67d7-5u8h06ig3z.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\255xeeuacu-5u8h06ig3z.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\staticwebassets.build.json
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\staticwebassets.development.json
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\BookShop.csproj.Up2Date
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\BookShop.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\refint\BookShop.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\BookShop.pdb
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\BookShop.genruntimeconfig.cache
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\ref\BookShop.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\cbhtojsln5-op68i9n064.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\443h80ex83-nlprw0eh4k.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\24qr3z6w9e-udk71zx0ga.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\uwb0i6ztjc-12p8d3bmps.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\suy39yh5ji-zll9a0v52w.gz

@@ -13,10 +13,19 @@ builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 
 builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
     .AddEntityFrameworkStores<ApplicationDbContext>();
-builder.Services.AddControllersWithViews();
 
-//add services UnitOfWork
-builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
+builder.Services.AddControllersWithViews()
+    .AddJsonOptions(options =>
+    {
+        options.JsonSerializerOptions.PropertyNamingPolicy = System.Text.Json.JsonNamingPolicy.CamelCase;
+    });
+
+// SỬA THỨ TỰ ĐĂNG KÝ DEPENDENCY INJECTION
+builder.Services.AddScoped<ISP_Call, SP_Call>();
+builder.Services.AddScoped<ICategoryReponsitory, CategoryReponsitory>();
+builder.Services.AddScoped<ICoverTypeResponsitory, CoverTypeReponsitory>();
+builder.Services.AddScoped<IUnitOfWork, UnitOfWork>(); // UnitOfWork cuối cùng
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -27,23 +36,21 @@ if (app.Environment.IsDevelopment())
 else
 {
     app.UseExceptionHandler("/Home/Error");
-    // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
     app.UseHsts();
 }
 
 app.UseHttpsRedirection();
+app.UseStaticFiles();
+
 app.UseRouting();
 
+app.UseAuthentication();
 app.UseAuthorization();
 
-app.MapStaticAssets();
-
 app.MapControllerRoute(
-        name: "default",
-        pattern: "{area=User}/{controller=Home}/{action=Index}/{id?}")
-    .WithStaticAssets();
+    name: "default",
+    pattern: "{area=User}/{controller=Home}/{action=Index}/{id?}");
 
-app.MapRazorPages()
-    .WithStaticAssets();
+app.MapRazorPages();
 
 app.Run();

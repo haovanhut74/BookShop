@@ -1,0 +1,14 @@
+@model int
+<div class="row g-3 mt-3 justify-content-center align-items-center">
+    <div class="col-12 col-md-5">
+        <button type="submit" class="btn btn-gradient-primary shadow-sm w-100 py-2 fw-bold d-flex align-items-center justify-content-center gap-2"
+                asp-route-id="@Model">
+            <i class="fas fa-save"></i> Lưu
+        </button>
+    </div>
+    <div class="col-12 col-md-5">
+        <a asp-action="Index" class="btn btn-outline-secondary shadow-sm w-100 py-2 fw-bold d-flex align-items-center justify-content-center gap-2">
+            <i class="fas fa-arrow-left"></i> Trở về
+        </a>
+    </div>
+</div>

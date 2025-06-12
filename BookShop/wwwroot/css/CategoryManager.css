@@ -1,0 +1,229 @@
+﻿.bg-gradient-primary-to-secondary {
+    background: linear-gradient(90deg, #647dee 0%, #7f53ac 100%);
+}
+
+.rounded-top-4 {
+    border-top-left-radius: 1rem !important;
+    border-top-right-radius: 1rem !important;
+}
+
+.rounded-bottom-4 {
+    border-bottom-left-radius: 1rem !important;
+    border-bottom-right-radius: 1rem !important;
+}
+
+.table thead tr {
+    font-size: 1.04rem;
+    letter-spacing: 0.02em;
+}
+
+.table-hover tbody tr:hover {
+    background-color: #f1f7fd;
+    transition: background 0.3s;
+}
+
+.btn-success {
+    background: linear-gradient(90deg, #78e08f 0%, #00b894 100%);
+    border: none;
+    font-weight: 500;
+    box-shadow: 0 1px 8px rgba(40, 199, 153, 0.15);
+}
+.btn-success:hover, .btn-success:focus {
+    background: linear-gradient(90deg, #00b894 0%, #005a4f 100%);
+    color: #fff !important;
+}
+
+.btn-icon {
+    width: 36px;
+    height: 36px;
+    padding: 0;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.1rem;
+}
+
+.table th, .table td {
+    vertical-align: middle;
+}
+
+.table-responsive {
+    border-radius: 1rem;
+    overflow: hidden;
+}
+
+.shadow-sm {
+    box-shadow: 0 2px 6px rgba(50, 50, 93, 0.07);
+}
+
+
+.btn-gradient-primary {
+    background: linear-gradient(90deg, #647dee 0%, #7f53ac 100%);
+    color: #fff;
+    border: none;
+    transition: background 0.2s, box-shadow 0.2s;
+    box-shadow: 0 3px 8px rgba(127, 83, 172, 0.10);
+    font-size: 1.05rem;
+    letter-spacing: 0.03em;
+}
+.btn-gradient-primary:hover,
+.btn-gradient-primary:focus {
+    background: linear-gradient(90deg, #7f53ac 0%, #647dee 100%);
+    color: #fff;
+    box-shadow: 0 5px 16px rgba(127, 83, 172, 0.18);
+    transform: translateY(-2px) scale(1.01);
+}
+
+.btn-outline-secondary {
+    border: 2px solid #7f53ac;
+    color: #7f53ac;
+    background: #fff;
+    transition: color 0.2s, border 0.2s, background 0.2s, box-shadow 0.2s;
+    font-size: 1.05rem;
+    letter-spacing: 0.03em;
+}
+.btn-outline-secondary:hover,
+.btn-outline-secondary:focus {
+    color: #fff;
+    background: #7f53ac;
+    border-color: #7f53ac;
+    box-shadow: 0 5px 16px rgba(127, 83, 172, 0.14);
+    transform: translateY(-2px) scale(1.01);
+}
+.shadow-sm {
+    box-shadow: 0 2px 8px rgba(127, 83, 172, 0.15);
+}
+/* Tùy chỉnh phần đếm bản ghi & số trang (info + length) */
+.dataTables_length, .dataTables_info {
+    font-weight: 500;
+    color: #7f53ac;
+    background: #f6f6fa;
+    padding: 0.5rem 1.2rem;
+    border-radius: 1.5rem;
+    margin-right: 1rem;
+    box-shadow: 0 1.5px 6px rgba(127, 83, 172, 0.08);
+    display: inline-block;
+}
+
+/* Ô tìm kiếm */
+.dataTables_filter {
+    background: #fff;
+    padding: 0.5rem 1rem;
+    border-radius: 1.5rem;
+    box-shadow: 0 1.5px 6px rgba(127, 83, 172, 0.10);
+    display: flex;
+    align-items: center;
+    margin-bottom: 0.6rem;
+    font-weight: 500;
+}
+.dataTables_filter label {
+    margin-bottom: 0;
+    margin-right: 10px;
+    color: #7f53ac;
+}
+.dataTables_filter input[type="search"] {
+    border-radius: 1rem;
+    border: 1.5px solid #7f53ac;
+    padding: 0.35rem 1rem;
+    outline: none;
+    margin-left: 8px;
+    transition: border 0.2s;
+}
+.dataTables_filter input[type="search"]:focus {
+    border: 1.5px solid #647dee;
+    box-shadow: 0 0 3px #7f53ac33;
+}
+
+/* Nút chuyển trang */
+.dataTables_paginate {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem 0 0.5rem 0;
+}
+.dataTables_paginate .paginate_button {
+    background: linear-gradient(90deg, #e0eafe 0%, #ded9fd 100%);
+    border: 1.5px solid #7f53ac44;
+    color: #7f53ac !important;
+    margin: 0 4px;
+    padding: 6px 14px;
+    border-radius: 1.2rem !important;
+    font-weight: 600;
+    transition: background 0.2s, color 0.2s, box-shadow 0.2s;
+    min-width: 38px;
+}
+.dataTables_paginate .paginate_button.current,
+.dataTables_paginate .paginate_button:hover {
+    background: linear-gradient(90deg, #7f53ac 0%, #647dee 100%) !important;
+    color: #fff !important;
+    box-shadow: 0 3px 12px rgba(127, 83, 172, 0.18);
+    border: 1.5px solid #7f53ac77;
+}
+.dataTables_paginate .paginate_button.disabled {
+    opacity: 0.55 !important;
+    background: #ececec !important;
+    color: #aaa !important;
+    box-shadow: none;
+}
+
+/* Tùy chỉnh drop-down chọn số bản ghi hiển thị */
+.dataTables_length select {
+    border-radius: 1.2rem;
+    border: 1.5px solid #7f53ac66;
+    padding: 3px 12px;
+    margin-left: 8px;
+}
+.dataTables_filter label::before {
+    content: "\f002";
+    font-family: "Font Awesome 5 Free", serif;
+    font-weight: 900;
+    color: #7f53ac;
+    margin-right: 8px;
+    font-size: 1.13rem;
+    vertical-align: -2px;
+}
+.btn-sort-alpha {
+    background: linear-gradient(90deg, #ede7f6 0%, #e6e9fa 100%);
+    border: none;
+    outline: none;
+    color: #7f53ac;
+    border-radius: 50%;
+    margin-left: 6px;
+    padding: 5px 8px 5px 8px;
+    font-size: 1.05rem;
+    box-shadow: 0 2px 8px rgba(127, 83, 172, 0.12);
+    transition: background 0.2s, color 0.2s, box-shadow 0.2s, transform 0.2s;
+    cursor: pointer;
+}
+
+.btn-sort-alpha:hover, .btn-sort-alpha.active {
+    background: linear-gradient(90deg, #7f53ac 0%, #647dee 100%);
+    color: #fff;
+    transform: translateY(-2px) scale(1.08);
+    box-shadow: 0 4px 12px rgba(127, 83, 172, 0.20);
+}
+
+.btn-sort-alpha i {
+    vertical-align: middle;
+}
+
+@media (max-width: 768px) {
+    .gap-2 { gap: 0.5rem !important; }
+    .row.g-3 { row-gap: 1rem !important; }
+    .card-header, .card-body { padding: 1rem 0.5rem; }
+    .table th, .table td { padding: 0.75rem 0.5rem; }
+}
+@media (max-width: 576px) {
+    .dataTables_filter, .dataTables_length, .dataTables_info {
+        border-radius: 0.85rem !important;
+        padding: 0.35rem .7rem;
+    }
+    .dataTables_length {
+        margin-right: 0.3rem;
+    }
+    .dataTables_paginate .paginate_button {
+        min-width: 29px;
+        padding: 4px 8px;
+        font-size: 0.97rem;
+    }
+}

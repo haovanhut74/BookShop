@@ -12,7 +12,7 @@ public interface ISP_Call : IDisposable
     void Excute(string produreName, DynamicParameters? param = null);
 
     // Lấy duy nhất 1 bản ghi, gán vào đối tượng kiểu T (trả về 1 object)
-    T OneRecord<T>(string produreName, DynamicParameters? param = null);
+    T? OneRecord<T>(string produreName, DynamicParameters? param = null);
 
     //Lấy danh sách các bản ghi từ stored procedure, kiểu IEnumerable<T>
     IEnumerable<T> List<T>(string produreName, DynamicParameters? param = null);

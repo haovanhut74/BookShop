@@ -75,7 +75,7 @@ public class SP_Call : ISP_Call
         {
             sqlConn.Open(); // Mở kết nối
             // Query trả về IEnumerable<T> từ procedure
-            return sqlConn.Query<T>(produreName, param, commandType: System.Data.CommandType.StoredProcedure);
+            return sqlConn.Query<T>(produreName, param, commandType: System.Data.CommandType.StoredProcedure).ToList();
         }
     }
 

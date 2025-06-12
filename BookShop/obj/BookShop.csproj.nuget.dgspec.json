@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Môn học trên trường\\DoAnChuyenNganh\\E-Commerce\\BookShop\\BookShop.csproj": {}
+    "D:\\MonHocTrenTruong\\DoAnChuyenNganh\\E-Commerce\\BookShop\\BookShop.csproj": {}
   },
   "projects": {
-    "D:\\Môn học trên trường\\DoAnChuyenNganh\\E-Commerce\\BookShop\\BookShop.csproj": {
+    "D:\\MonHocTrenTruong\\DoAnChuyenNganh\\E-Commerce\\BookShop\\BookShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Môn học trên trường\\DoAnChuyenNganh\\E-Commerce\\BookShop\\BookShop.csproj",
+        "projectUniqueName": "D:\\MonHocTrenTruong\\DoAnChuyenNganh\\E-Commerce\\BookShop\\BookShop.csproj",
         "projectName": "BookShop",
-        "projectPath": "D:\\Môn học trên trường\\DoAnChuyenNganh\\E-Commerce\\BookShop\\BookShop.csproj",
+        "projectPath": "D:\\MonHocTrenTruong\\DoAnChuyenNganh\\E-Commerce\\BookShop\\BookShop.csproj",
         "packagesPath": "C:\\Users\\congn\\.nuget\\packages\\",
-        "outputPath": "D:\\Môn học trên trường\\DoAnChuyenNganh\\E-Commerce\\BookShop\\obj\\",
+        "outputPath": "D:\\MonHocTrenTruong\\DoAnChuyenNganh\\E-Commerce\\BookShop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\congn\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -71,6 +71,10 @@
             "Microsoft.EntityFrameworkCore.Tools": {
               "target": "Package",
               "version": "[9.0.5, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[9.0.0, )"
             }
           },
           "imports": [
@@ -92,7 +96,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,43 @@
+@model BookShop.Models.CoverType
+
+@{
+    ViewData["Title"] = "Create CoverType";
+    var title = "Create CoverType";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<form method = "post">
+    <div class="row p-3 border">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        @if (Model.CoverTypeId != 0)
+        {
+            title = "Edit CoverType";
+        }
+        <div class="col-12 border-bottom">
+            <h2 class="text-primary">@title</h2>
+        </div>
+        <div class="col-8 pt-4">
+            <div class="form-group row">
+                <input type="hidden" asp-for="CoverTypeId" />
+                <div class="col-4">
+                    <label asp-for="CoverTypeName"></label>
+                </div>
+                <div class="col-8">
+                    <input asp-for="CoverTypeName" class="form-control">
+                    <span asp-validation-for="CoverTypeName" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="form-group row">
+                <div class="col-8 offset-4">
+                    @if (Model.CoverTypeId != 0)
+                    {
+                        <partial name="_EditAndBlackListButton" model="Model.CoverTypeId" />
+                    }
+                    else
+                    {
+                        <partial name="_CreateAndBlackListButton" />
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</form>

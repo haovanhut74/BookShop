@@ -3,5 +3,7 @@
 public interface IUnitOfWork : IDisposable
 {
     ICategoryReponsitory Category { get; }
-    SP_Call SP_Call { get; }
+    ICoverTypeResponsitory CoverType { get; }
+    ISP_Call SP_Call { get; }
+    void Save();
 }

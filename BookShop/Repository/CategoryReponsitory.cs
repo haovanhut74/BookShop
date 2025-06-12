@@ -22,7 +22,7 @@ public class CategoryReponsitory : Repository<Category>, ICategoryReponsitory
         if (objFromData != null)
         {
             objFromData.CategoryName = category.CategoryName;
-            _dbContext.SaveChanges();
         }
+        // _dbContext.SaveChanges();
     }
 }
