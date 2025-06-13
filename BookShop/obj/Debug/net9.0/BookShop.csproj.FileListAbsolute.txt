@@ -444,4 +444,6 @@ D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\rjsmcsh
 D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\443h80ex83-nlprw0eh4k.gz
 D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\24qr3z6w9e-udk71zx0ga.gz
 D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\uwb0i6ztjc-12p8d3bmps.gz
-D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\suy39yh5ji-zll9a0v52w.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Newtonsoft.Json.Bson.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\suy39yh5ji-mcm8fcjw1c.gz

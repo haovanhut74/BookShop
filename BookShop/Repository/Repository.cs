@@ -1,7 +1,7 @@
 ﻿using System.Linq.Expressions;
-using BookShop.Data;
 using BookShop.Repository.IRepository;
 using Microsoft.EntityFrameworkCore;
+
 // Dùng để truyền biểu thức lọc động như Where(x => x.Name == "A")
 // Chứa ApplicationDbContext
 
@@ -12,17 +12,15 @@ namespace BookShop.Repository;
 // Repository chung, dùng cho mọi entity class
 public class Repository<T> : IReponsitory<T> where T : class
 {
-    private readonly ApplicationDbContext _dbContext; // Biến chứa DbContext chính
-
     private DbSet<T> _dbSet; // DbSet đại diện cho bảng tương ứng kiểu T trong database
 
-    public Repository(ApplicationDbContext dbContext)
+    protected Repository(DbContext dbContext)
     {
-        _dbContext = dbContext; // Gán DbContext được truyền vào
-        _dbSet = _dbContext.Set<T>(); // Gán DbSet dựa trên kiểu T
+        // Gán DbContext được truyền vào
+        _dbSet = dbContext.Set<T>(); // Gán DbSet dựa trên kiểu T
     }
 
-    // Lấy tất cả bản ghi, có thể truyền bộ lọc, sắp xếp và include liên kết
+
     public IEnumerable<T> GetAll(Expression<Func<T, bool>>? filter = null,
         Func<IQueryable<T>, IOrderedQueryable<T>>? orderBy = null, string? includeProperties = null)
     {

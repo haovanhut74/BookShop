@@ -14,21 +14,19 @@ public class UnitOfWork : IUnitOfWork
     // Repository dành riêng cho bảng Category
     public ICategoryReponsitory Category { get; }
     public ICoverTypeResponsitory CoverType { get; }
+    public IProductReponsitory Product { get; }
+    public ICompanyReponsitory Company { get; }
 
     // Cài đặt thuộc tính công khai để sử dụng SP_Call
     public ISP_Call SP_Call { get; private set; }
-
-    // Constructor: nhận DbContext từ DI container, khởi tạo các repository và SP_Call
+    
     public UnitOfWork(ApplicationDbContext dbContext)
     {
         _dbContext = dbContext;
-
-        // Khởi tạo repository Category với context dùng chung
         Category = new CategoryReponsitory(_dbContext);
-
         CoverType = new CoverTypeReponsitory(_dbContext);
-        
-        // Khởi tạo SP_Call để gọi stored procedure bằng Dapper
+        Product = new ProductReponsitory(_dbContext);
+        Company = new CompanyReponsitory(_dbContext);
         SP_Call = new SP_Call(_dbContext);
     }
 

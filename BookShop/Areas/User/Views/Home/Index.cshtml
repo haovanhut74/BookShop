@@ -1,8 +1,46 @@
-﻿@{
+﻿@model IEnumerable<Product>
+@{
     ViewData["Title"] = "Home Page";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<div class = "row pb-3 backgroundWhite">
+    @foreach (var product in Model)
+    {
+        <div class = "col-lg-3 col-md-6">
+            <div class = "row p-2">
+                <div class = "col-12 p-1" style = "border:1px solid #008cba; border-radius: 5px;">
+                    <div class = "card" style = "border:0;">
+                        <img src = "@product.ImageUrl" class = "card-img-top rounded" alt = ""/>
+                        <div class = "pl-1">
+                            <p class="card-title h5">
+                                <b style="color:#2c3e50">@product.ProductName</b>
+                            </p>
+                            <p class = "card-title text-primary"><b>@product.Author</b></p>
+                        </div>
+                        <div style = "padding-left:5px;">
+                            <p>Price:
+                                <span style = "text-decoration: line-through;">
+                                    <b class = "">$@product.Price</b>
+                                </span>
+                            </p>
+                        </div>
+                        @if (product.DiscountPrice > 0)
+                        {
+                            <div style = "padding-left:5px;">
+                                <p>Price:
+                                    <span style = "color: #6610f2">
+                                        <b class = "">$@product.DiscountPrice</b>
+                                    </span>
+                                </p>
+                            </div>
+                        }
+                    </div>
+                    <div>
+                        <a asp-action = "Details" class = "btn btn-primary form-control" asp-route-id = "@product.ProductId">Xem</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+
 </div>

@@ -28,8 +28,6 @@ public class CategoryController : Controller
             return View(category);
         }
         category = _unitOfWork.Category.GetById(id.GetValueOrDefault());
-        if(category == null)
-            return NotFound();
         return View(category);
     }
 
@@ -67,10 +65,6 @@ public class CategoryController : Controller
     public IActionResult Delete(int id)
     {
         var obj = _unitOfWork.Category.GetById(id);
-        if (obj == null)
-        {
-            return Json(new { success = false, message = "Error while delete" });
-        }
         _unitOfWork.Category.Remove(obj);
         _unitOfWork.Save();
         return Json(new { success = true, message = "Delete success" });

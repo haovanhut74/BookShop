@@ -5,14 +5,14 @@ using Microsoft.AspNetCore.Mvc;
 namespace BookShop.Areas.Admin.Controllers;
 
 [Area("Admin")]
-public class CoverTypeController : Controller
+public class CompanyController : Controller
 {
     private readonly IUnitOfWork _unitOfWork;
 
-    public CoverTypeController(IUnitOfWork unitOfWork)
+    public CompanyController(IUnitOfWork unitOfWork)
     {
         _unitOfWork = unitOfWork;
-    } 
+    }
 
     // GET
     public IActionResult Index()
@@ -22,33 +22,33 @@ public class CoverTypeController : Controller
     
     public IActionResult Upsert(int? id)
     {
-        CoverType coverType = new CoverType();
+        Company Company = new Company();
         if (id == null)
         {
-            return View(coverType);
+            return View(Company);
         }
-        coverType = _unitOfWork.CoverType.GetById(id.GetValueOrDefault());
-        return View(coverType);
+        Company = _unitOfWork.Company.GetById(id.GetValueOrDefault());
+        return View(Company);
     }
 
     [HttpPost]
     [ValidateAntiForgeryToken]
-    public IActionResult Upsert(CoverType coverType)
+    public IActionResult Upsert(Company Company)
     {
         if (ModelState.IsValid)
         {
-            if (coverType.CoverTypeId == 0)
+            if (Company.CompanyId == 0)
             {
-                _unitOfWork.CoverType.Add(coverType);
+                _unitOfWork.Company.Add(Company);
             }
             else
             {
-                _unitOfWork.CoverType.Update(coverType);
+                _unitOfWork.Company.Update(Company);
             }
             _unitOfWork.Save();
             return RedirectToAction(nameof(Index));
         }
-        return View(coverType);
+        return View(Company);
     }
     
 
@@ -57,15 +57,15 @@ public class CoverTypeController : Controller
     [HttpGet]
     public IActionResult GetAll()
     {
-        object allObj = _unitOfWork.CoverType.GetAll().ToList();
+        object allObj = _unitOfWork.Company.GetAll().ToList();
         return Json(new { data = allObj });
     }
 
     [HttpDelete]
     public IActionResult Delete(int id)
     {
-        var obj = _unitOfWork.CoverType.GetById(id);
-        _unitOfWork.CoverType.Remove(obj);
+        var obj = _unitOfWork.Company.GetById(id);
+        _unitOfWork.Company.Remove(obj);
         _unitOfWork.Save();
         return Json(new { success = true, message = "Delete success" });
     }

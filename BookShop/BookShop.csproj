@@ -16,6 +16,7 @@
         <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="9.0.5"/>
         <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="9.0.5"/>
         <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="9.0.5"/>
+        <PackageReference Include="Microsoft.AspNetCore.Mvc.ViewFeatures" Version="2.3.0" />
         <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="9.0.5" />
         <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="9.0.5" />
         <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="9.0.5"/>
@@ -24,8 +25,9 @@
 
     <ItemGroup>
       <Folder Include="Areas\Admin\Views\Category\" />
-      <Folder Include="Areas\Admin\Views\Product\" />
+      <Folder Include="Migrations\" />
       <Folder Include="Services\" />
+      <Folder Include="wwwroot\images\products\" />
     </ItemGroup>
 
     <ItemGroup>

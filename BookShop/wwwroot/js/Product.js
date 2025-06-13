@@ -9,29 +9,30 @@ function loadDataTable() {
             "url": "/Admin/Product/GetAll/",
         },
         "columns": [
-            { "data": "productName", "width": "15%" },
-            { "data": "isbn", "width": "15%" },
-            { "data": "price", "width": "15%" },
-            { "data": "author", "width": "15%" },
-            { "data": "category.CategoryName", "width": "15%" },
+            {"data": "productName", "width": "20%"},
+            {"data": "isbn", "width": "15%"},
+            {"data": "price", "width": "10%"},
+            {"data": "discountPrice", "width": "10%"},
+            {"data": "author", "width": "20%"},
+            {"data": "category.categoryName", "width": "15%"},
             {
                 "data": "productId",
                 "render": function (data) {
                     return `
-                <div class="text-center">
-                    <a href="/Admin/Product/Upsert/${data}" class="btn btn-icon btn-outline-primary btn-sm mx-1" title="Sửa">
-                        <i class="fas fa-edit"></i>
-
-                    </a>
-                    <a onclick=Delete("/Admin/Product/Delete/${data}") class="btn btn-icon btn-outline-danger btn-sm mx-1" title="Xóa">
-                        <i class="fas fa-trash"></i>
-                    </a>
-                </div>`;
+                    <div class="text-center">
+                        <a href="/Admin/Product/Upsert/${data}" class="btn btn-icon btn-outline-primary btn-sm mx-1" title="Sửa">
+                            <i class="fas fa-edit"></i>
+                        </a>
+                        <a onclick=Delete("/Admin/Product/Delete/${data}") class="btn btn-icon btn-outline-danger btn-sm mx-1" title="Xóa">
+                            <i class="fas fa-trash"></i>
+                        </a>
+                    </div>`;
                 }, "width": "40%"
             }
         ]
     });
 }
+
 function Delete(url) {
     swal({
         title: "Bạn có chắc chắn muốn xóa?",

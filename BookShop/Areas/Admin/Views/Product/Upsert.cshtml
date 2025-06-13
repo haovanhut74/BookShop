@@ -1,0 +1,136 @@
+@model BookShop.ViewModels.ProductViewModel
+
+@{
+    ViewData["Title"] = Model.Product.ProductId == 0 ? "Create Product" : "Edit Product";
+    var title = Model.Product.ProductId == 0 ? "Create Product" : "Edit Product";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="container py-4">
+    <div class="card shadow border-0 rounded-4">
+        <div class="card-header bg-gradient-primary-to-secondary rounded-top-4 py-4">
+            <h2 class="text-center text-white mb-0">
+                <i class="fas fa-book me-2"></i> @title
+            </h2>
+        </div>
+        <div class="card-body bg-white rounded-bottom-4">
+            <form method="post" enctype="multipart/form-data">
+                <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+                <input type="hidden" asp-for="Product.ProductId" />
+                <div class="form-group row mb-4">
+                    <div class="col-4 d-flex align-items-center">
+                        <label asp-for="Product.ProductName" class="mb-0">Tên sách</label>
+                    </div>
+                    <div class="col-8">
+                        <input asp-for="Product.ProductName" class="form-control" />
+                        <span asp-validation-for="Product.ProductName" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="form-group row mb-4">
+                    <div class="col-4 d-flex align-items-center">
+                        <label asp-for="Product.ISBN" class="mb-0">Mã số tiêu chuẩn quốc tế</label>
+                    </div>
+                    <div class="col-8">
+                        <input asp-for="Product.ISBN" class="form-control" />
+                        <span asp-validation-for="Product.ISBN" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="form-group row mb-4">
+                    <div class="col-4 d-flex align-items-center">
+                        <label asp-for="Product.Author" class="mb-0">Tác giả</label>
+                    </div>
+                    <div class="col-8">
+                        <input asp-for="Product.Author" class="form-control" />
+                        <span asp-validation-for="Product.Author" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="form-group row mb-4">
+                    <div class="col-4 d-flex align-items-center">
+                        <label asp-for="Product.Description" class="mb-0">Mô tả</label>
+                    </div>
+                    <div class="col-8">
+                        <textarea asp-for="Product.Description" class="form-control"></textarea>
+                    </div>
+                </div>
+                <div class="form-group row mb-4">
+                    <div class="col-4 d-flex align-items-center">
+                        <label asp-for="Product.Price" class="mb-0">Giá sách</label>
+                    </div>
+                    <div class="col-8">
+                        <input asp-for="Product.Price" class="form-control" />
+                        <span asp-validation-for="Product.Price" class="text-danger"></span>
+                    </div>
+                </div>
+                
+                <div class="form-group row mb-4">
+                    <div class="col-4 d-flex align-items-center">
+                        <label asp-for="Product.DiscountPrice" class="mb-0">Giá sách hiện tại</label>
+                    </div>
+                    <div class="col-8">
+                        <input asp-for="Product.DiscountPrice" class="form-control" />
+                        <span asp-validation-for="Product.DiscountPrice" class="text-danger"></span>
+                    </div>
+                </div>
+                
+                <div class="form-group row mb-4">
+                    <div class="col-4 d-flex align-items-center">
+                        Thể loại
+                    </div>
+                    <div class="col-8">
+                        @Html.DropDownListFor(x => x.Product.CategoryId, Model.CategoryList, "Select a Category", new { @class = "form-control" })
+                        <span asp-validation-for="Product.CategoryId" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="form-group row mb-4">
+                    <div class="col-4 d-flex align-items-center">
+                        Loại bìa
+                    </div>
+                    <div class="col-8">
+                        @Html.DropDownListFor(x => x.Product.CoverTypeId, Model.CoverTypeList, "Select a Cover Type", new { @class = "form-control" })
+                        <span asp-validation-for="Product.CoverTypeId" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="form-group row mb-4">
+                    <input type="hidden" asp-for="Product.ImageUrl" />
+                    <div class="col-4 d-flex align-items-center">
+                        Hình ảnh
+                    </div>
+                    <div class="col-8">
+                        <input type="file" name="files" id="uploadBox" multiple class="form-control"/>
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <div class="col-8 offset-4">
+                        @if (Model.Product.ProductId != 0)
+                        {
+                            <partial name="_EditAndBlackListButton" model="Model.Product.ProductId" />
+                        }
+                        else
+                        {
+                            <partial name="_CreateAndBlackListButton" />
+                        }
+                    </div>
+                </div>
+            </form>
+            @if (Model.Product.ProductId != 0)
+            {
+                <div class="mt-4 text-center">
+                    <img src="@Model.Product.ImageUrl" width="240px" height="360px" style="border-radius: 5px;border: 1px solid #bbb9b9" alt="Responsive image">
+                </div>
+            }
+        </div>
+    </div>
+</div>
+
+@section Scripts{
+    <partial name="_ValidationScriptsPartial"/>
+    <script>
+        function validateForm() {
+            var uploadBox = document.getElementById("uploadBox");
+            var productId = document.querySelector("input[name='Product.ProductId']")?.value;
+            if ((!productId || productId == 0) && uploadBox.value == "") {
+                swal("Lưu ý", "Bạn chưa chọn ảnh cho sản phẩm. Ảnh có thể được thêm sau.", "info");
+            }
+            return true;
+        }
+    </script>
+}

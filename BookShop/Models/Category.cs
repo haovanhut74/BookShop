@@ -5,7 +5,7 @@ namespace BookShop.Models;
 public class Category
 {
     [Key]
-    public int CategoryId { get; init; }
+    public int CategoryId { get; set; }
 
     [Display(Name = "Category Name")]
     [Required, MaxLength(100)]
