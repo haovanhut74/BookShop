@@ -10,5 +10,6 @@ public class Company
     public string? City { get; set; }
     public string? Country { get; set; }
     public string? PhoneNumber { get; set; }
+    public string? LogoImg { get; set; }
     public bool IsAuthorizedCompany { get; set; }
 }

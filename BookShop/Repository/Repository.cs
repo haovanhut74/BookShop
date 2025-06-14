@@ -31,10 +31,12 @@ public class Repository<T> : IReponsitory<T> where T : class
 
         if (includeProperties != null) // Nếu có chuỗi include
         {
-            foreach (string includeProperty in includeProperties.Split([','], StringSplitOptions.RemoveEmptyEntries))
+            foreach (string includeProperty in includeProperties.Split(new[] { ',' }, StringSplitOptions.RemoveEmptyEntries))
             {
-                query = query.Include(includeProperty); // Bao gồm các bảng liên quan
+                query = query.Include(includeProperty);
             }
+
+
         }
 
         if (orderBy != null)
@@ -55,10 +57,12 @@ public class Repository<T> : IReponsitory<T> where T : class
 
         if (includeProperties != null)
         {
-            foreach (string includeProperty in includeProperties.Split([','], StringSplitOptions.RemoveEmptyEntries))
+            foreach (string includeProperty in includeProperties.Split(new[] { ',' }, StringSplitOptions.RemoveEmptyEntries))
             {
-                query = query.Include(includeProperty); // Include các thuộc tính liên quan
+                query = query.Include(includeProperty);
             }
+
+
         }
 
         // Trả về kết quả đầu tiên hoặc báo lỗi nếu không có

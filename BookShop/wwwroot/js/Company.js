@@ -9,37 +9,32 @@ function loadDataTable() {
             "url": "/Admin/Company/GetAll/",
         },
         "columns": [
-            {"data": "companyName", "width": "15%"},
-            {"data": "Street", "width": "15%"},
-            {"data": "City", "width": "10%"},
-            {"data": "Country", "width": "10%"},
-            {"data": "PhoneNumber", "width": "15%"},
+            { "data": "companyName", "width": "15%" },
+            { "data": "street", "width": "15%" },
+            { "data": "city", "width": "10%" },
+            { "data": "country", "width": "10%" },
+            { "data": "phoneNumber", "width": "15%" },
             {
-                "data": "IsAuthorizedCompany",
+                "data": "isAuthorizedCompany",
                 "render": function (data) {
-                    if (data) {
-                        return `<input type="checkbox" disabled checked></i>`
-                    } else {
-                        return `<input type="checkbox" disabled></i>`
-                    }
+                    return `<input type="checkbox" disabled ${data ? "checked" : ""}>`;
                 },
                 "width": "15%"
             },
             {
-                "data": "categoryId",
+                "data": "companyId",
                 "render": function (data) {
-
                     return `
                 <div class="text-center">
                     <a href="/Admin/Company/Upsert/${data}" class="btn btn-icon btn-outline-primary btn-sm mx-1" title="Sửa">
                         <i class="fas fa-edit"></i>
-
                     </a>
                     <a onclick=Delete("/Admin/Company/Delete/${data}") class="btn btn-icon btn-outline-danger btn-sm mx-1" title="Xóa">
                         <i class="fas fa-trash"></i>
                     </a>
                 </div>`;
-                }, "width": "25%"
+                },
+                "width": "25%"
             }
         ]
     });

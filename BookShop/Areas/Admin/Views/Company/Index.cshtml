@@ -1,4 +1,4 @@
-﻿@{
+@{
     ViewData["Title"] = "Quản lý danh mục";
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
@@ -6,14 +6,14 @@
     <div class = "card shadow border-0 rounded-4">
         <div class = "card-header bg-gradient-primary-to-secondary rounded-top-4 py-4">
             <h1 class = "text-center text-white mb-0">
-                <i class = "fas fa-layer-group me-2"></i> Quản Lý Sản Phẩm
+                <i class = "fas fa-layer-group me-2"></i> Quản Lý Danh Mục Công Ty
             </h1>
         </div>
         <div class = "card-body bg-white rounded-bottom-4">
             <div class = "d-flex justify-content-between align-items-center mb-4">
                 <h3 class = "mb-0 text-primary fw-bold d-flex align-items-center">
                     <i class = "fas fa-list-ul me-2"></i>
-                    Danh sách Sản Phẩm
+                    Danh sách công ty
                 </h3>
                 <a asp-action = "Upsert" class = "btn btn-success shadow-sm d-flex align-items-center gap-2" title = "Thêm mới">
                     <i class = "fas fa-plus-circle"></i><span>Thêm mới</span>
@@ -22,31 +22,14 @@
             <div class = "table-responsive rounded-3 shadow-sm">
                 <table class = "table table-hover align-middle mb-0" id = "tblData" style = "overflow: hidden;">
                     <thead>
-                    <tr class = "bg-primary text-white">
-                        <th class = "ps-4 py-3">
-                            Product
-                            <button class = "btn-sort-alpha" title = "Sắp xếp ABC">
-                                <i class = "fas fa-sort-alpha-down"></i>
-                            </button>
-                        </th>
-                        <th class = "ps-4 py-3">
-                            ISBN
-                        </th>
-                        <th class = "ps-4 py-3">
-                            Price
-                        </th>
-                        
-                        <th class = "ps-4 py-3">
-                            DisPrice
-                        </th>
-                        
-                        <th class = "ps-4 py-3">
-                            Author
-                        </th>
-                        <th class = "ps-4 py-3">
-                            Category
-                        </th>
-                        <th class = "text-center py-3" style = "width:140px;">Thao tác</th>
+                    <tr class="bg-primary text-white">
+                        <th class="ps-4 py-3">Tên công ty</th>
+                        <th>Đường</th>
+                        <th>Thành phố</th>
+                        <th>Quốc gia</th>
+                        <th>Số điện thoại</th>
+                        <th>Được ủy quyền</th>
+                        <th class="text-center py-3" style="width:140px;">Thao tác</th>
                     </tr>
                     </thead>
                     <tbody>
@@ -57,6 +40,6 @@
     </div>
 
     @section Scripts{
-        <script src = "~/js/Product.js" asp-append-version = "true"></script>
+        <script src = "~/js/Company.js" asp-append-version = "true"></script>
     }
 </div>

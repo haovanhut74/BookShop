@@ -18,6 +18,7 @@ D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microso
 D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
 D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.AspNetCore.JsonPatch.dll
 D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
 D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
 D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.Build.dll
@@ -78,6 +79,7 @@ D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microso
 D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
 D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Mono.TextTemplating.dll
 D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Newtonsoft.Json.Bson.dll
 D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\NuGet.Common.dll
 D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\NuGet.Configuration.dll
 D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
@@ -289,6 +291,7 @@ D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\runtime
 D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
 D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\BookShop.csproj.AssemblyReference.cache
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\rpswa.dswa.cache.json
 D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\BookShop.GeneratedMSBuildEditorConfig.editorconfig
 D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\BookShop.AssemblyInfoInputs.cache
 D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\BookShop.AssemblyInfo.cs
@@ -298,6 +301,9 @@ D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\BookSho
 D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\BookShop.RazorAssemblyInfo.cache
 D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\BookShop.RazorAssemblyInfo.cs
 D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\BookShop.sourcelink.json
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
 D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\scopedcss\bundle\BookShop.styles.css
 D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\scopedcss\projectbundle\BookShop.bundle.scp.css
@@ -363,7 +369,12 @@ D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compres
 D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\nezrqnk58p-muycvpuwrr.gz
 D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\v0zgfp0y55-87fc7y1x7t.gz
 D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\yfc7ypekbg-mlv21k5csn.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\443h80ex83-nlprw0eh4k.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\cbhtojsln5-op68i9n064.gz
 D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\i8w7pqsxdw-61n19gt1b8.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\24qr3z6w9e-udk71zx0ga.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\uwb0i6ztjc-12p8d3bmps.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\suy39yh5ji-mcm8fcjw1c.gz
 D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\lo5o145lxm-xtxxf3hu2r.gz
 D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\1lwzq2x4vt-t1cqhe9u97.gz
 D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\lqzoele3bv-c2jlpeoesf.gz
@@ -436,14 +447,5 @@ D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\refint\
 D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\BookShop.pdb
 D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\BookShop.genruntimeconfig.cache
 D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\ref\BookShop.dll
-D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\cbhtojsln5-op68i9n064.gz
-D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\rpswa.dswa.cache.json
-D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\rjimswa.dswa.cache.json
-D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
-D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
-D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\443h80ex83-nlprw0eh4k.gz
-D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\24qr3z6w9e-udk71zx0ga.gz
-D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\uwb0i6ztjc-12p8d3bmps.gz
-D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Microsoft.AspNetCore.JsonPatch.dll
-D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\bin\Debug\net9.0\Newtonsoft.Json.Bson.dll
-D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\suy39yh5ji-mcm8fcjw1c.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\n6qz2bjgoz-sshm0rsqa3.gz
+D:\MonHocTrenTruong\DoAnChuyenNganh\E-Commerce\BookShop\obj\Debug\net9.0\compressed\0fq7hkbon6-rf2jjq5ho4.gz
